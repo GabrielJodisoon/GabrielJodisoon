@@ -1,4 +1,4 @@
-# E ae! Sou Gabriel Jodison, Desenvolvedor Flutter!
+# E ae! Sou Gabriel Jodison, Desenvolvedor Front-End!
 
 
 <div align="center">  
