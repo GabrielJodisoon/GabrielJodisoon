@@ -1,4 +1,4 @@
-# E ae! Sou Gabriel Jodison, Desenvolvedor Front-End!
+# E ae! Sou Gabriel Jodison, Desenvolvedor FrontEnd!
 
 
 <div align="center">  
